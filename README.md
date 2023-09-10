@@ -32,7 +32,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
+  
 ![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/b45234ca-8f84-4007-8ad2-89d7653eaab8)
+  
 ![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/f2f3878e-044a-4133-b53e-9cdedd97ddfc)
 </p>
 <p>
@@ -41,6 +43,7 @@ We create resources and download wireshark to observe the traffic.
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/49b7c684-9af7-4ba9-8042-29b7becfa82e)
 </p>
 <p>

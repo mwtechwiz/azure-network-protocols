@@ -25,33 +25,26 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resources
+- Observe ICMP & SSH Traffic
+- Observe DHCP & DNS & RDP Traffic
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/b45234ca-8f84-4007-8ad2-89d7653eaab8)
+![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/f2f3878e-044a-4133-b53e-9cdedd97ddfc)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We create resources and download wireshark to observe the traffic.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/techwiz77777/azure-network-protocols/assets/143854558/49b7c684-9af7-4ba9-8042-29b7becfa82e)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we open up wireshark and type in the filter bar to filter ICMP, SSH, DHCP, DNS, AND RDP traffic.
 </p>
 <br />
